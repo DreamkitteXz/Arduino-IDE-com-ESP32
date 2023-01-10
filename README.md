@@ -24,6 +24,13 @@ Instalando o Arduino IDE
 Instalando a placa do ESP32 no Arduino IDE
 </h3>
 <P>
-Depois de instalado, abra o Arduino IDE. Vá para o canto superior esquerdo e clique em File -> Preferences.
+1. Depois de instalado, abra o Arduino IDE. Vá para o canto superior esquerdo e clique em <code>File -> Preferences</code>.
 </P>
 <p align='center'><img src="Images\Prederences.png" alt="Screen" width="600" height="350"></p>
+<P>2. Cole essa URL <code>https://dl.espressif.com/dl/package_esp32_index.json</code> no Boards Manager URLs e clique em OK.</P>
+<p>3. Agora vá para aba de <code>Ferramentas -> Boards -> Boards Manager</code></p>
+<p align='center'><img src="Images\AIDE.png" alt="Screen" width="700" height="500"></p>
+<p>4. Pesquise por <code>esp32</code> e instale.</p>
+<p align='center'><img src="Images\installesp.png" alt="Screen" width="807" height="448"></p>
+<p>5. Agora selecione sua placa <code>Ferramentas -> boards</code> e instale.</p>
+<p align='center'><img src="Images\Selecionando.png" alt="Screen" width="1092" height="450"></p>
