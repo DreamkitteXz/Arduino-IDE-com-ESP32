@@ -15,6 +15,8 @@ Voce irá aprender:
 Instalando o Arduino IDE
 </h3>
 <p>Para instalar é muito fácil, basta clicar <a href="https://www.arduino.cc/en/software">aqui</a>, você será redirecionado para a página de download do Arduino IDE, escolha seu sistema operacional e espere o arquivo ser baixado.</p>
-<img src="Images\Untitled.png" alt="Screen" width="700" height="350">
-<p>Após ser baixado clique em cima deste arquivo e espere aparecer esta tela</p>
-<img src="Images\Untitled.png" alt="Screen" width="700" height="350">
+<img src="Images\d.png" alt="Screen" width="700" height="350">
+<p>Após ser baixado clique em cima deste arquivo e espere aparecer esta tela:</p>
+<p align='center'><img src="Images\agreeed.png" alt="Screen" width="450" height="350"></p>
+<p>Agora clique em Próximo e Instale:</p>
+<p align='center'><img src="Images\agree.png" alt="Screen" width="450" height="350"></p>
