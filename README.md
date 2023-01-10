@@ -41,3 +41,20 @@ Fazendo um Led piscar
 <p>Agora que o Firmware do Arduino IDE foi instalado vamos executar um simples código para ver se está realmente funcionando.</p>
 <p>1. Primeiro precisamos montar nosso circuito, para isso utilizaremos os pinos <code>D22</code> e <code>GND</code>.</p>
 <p align='center'><img src="https://github.com/DreamkitteXz/Led-Blink-ESP32-JavaScript/raw/main/Images/circuit.png" alt="Screen" width="627" height="457"></p>
+<p>2. Agora copie e cole o seguinte código no Arduino IDE:</p>
+<pre><code>int Led = 22;
+
+void setup() {
+  pinMode(Led, OUTPUT); // Atribui o Led(pino 22) como saída.
+}
+
+void loop() {
+  digitalWrite(pino, HIGH); // Acende o Led
+  delay(500);
+  digitalWrite(pino, LOW); // Apaga o Led
+  delay(500);
+}</code></pre>
+<p>3. Clique na seta no canto superior esquerdo para carregar seu código no ESP32.</p>
+<p align='center'><img src="Images\seta.png" alt="Screen" width="617" height="452"></p>
+<h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Você pode conferir o resultado abaixo: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"> </h4>
+<p align='center'><img src="Images\ezgif.com-gif-maker (5).gif" alt="Screen" width="600" height="338"></p>
