@@ -32,7 +32,7 @@ Instalando a placa do ESP32 no Arduino IDE
 <p align='center'><img src="Images\AIDE.png" alt="Screen" width="700" height="500"></p>
 <p>4. Pesquise por <code>esp32</code> e instale.</p>
 <p align='center'><img src="Images\installesp.png" alt="Screen" width="807" height="448"></p>
-<p>5. Agora selecione sua placa <code>Ferramentas -> boards</code> e instale.</p>
+<p>5. Agora selecione sua placa <code>Ferramentas -> boards</code>.</p>
 <p align='center'><img src="Images\Selecionando.png" alt="Screen" width="1092" height="450"></p>
 <h4 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px">Pronto! Seu ESP32 esta apto à ser programado com o Arduino IDE <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" height="30px"> </h4>
 <h3 align='center'> 
